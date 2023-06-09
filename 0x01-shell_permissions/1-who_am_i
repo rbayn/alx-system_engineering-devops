@@ -1,2 +1,2 @@
 #!/bin/bash
-ehoami
+su -un
